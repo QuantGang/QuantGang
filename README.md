@@ -16,5 +16,7 @@ I’m **Juan Sebastian Galeano Deaza**, a **Quantitative Finance and Data Scienc
 - **Financial Modelling**: Valuation methods, CVA/DVA calculations, financial risk management
 - **Trading & Risk Management**: Fixed Income, Derivatives, FX Trading, Portfolio Optimization
 
+You can see some of my recent work on Machine Learning and Deep Learning here: [ML_1](https://quantgang.github.io/MachineLearning_P1/)  
+
 📫 **Let's connect!**  
 [GitHub](https://github.com/QuantGang) | [LinkedIn](https://linkedin.com/in/juan-sebastian-galeano-d)  
