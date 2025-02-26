@@ -5,7 +5,7 @@ I’m **Juan Sebastian Galeano Deaza**, a **Quantitative Finance and Data Scienc
 ### 🚀 About Me
 - 🔭 I’m currently pursuing a **Master of Data Science in Quantitative Finance** at the **University of Technology Sydney**.
 - 📈 Previously worked as a **Trader** and **Financial Risk Analyst** at **Bancolombia**, managing portfolios, developing quantitative models, and optimizing trading strategies.
-- 🌱 I’m currently learning **Machine Learning, Bayesian Methods, and Algorithmic Trading**.
+- 🌱 I’m interested in **Machine Learning, Bayesian Methods, and Algorithmic Trading**.
 - 👯 I’m looking to collaborate on **quantitative research, trading strategies, and financial modelling projects**.
 - 💬 Ask me about **trading, risk management, quantitative finance, and programming**.
 - 🌏 Looking for new **opportunities in Australia** to merge my passion for finance with quantitative analysis.
