@@ -13,7 +13,7 @@ I’m **Juan Sebastian Galeano Deaza**, a **Quantitative Finance and Data Scienc
 ### 🛠 Technical Skills
 - **Programming**: Python, R, SQL, DAX, VBA
 - **Data Analysis & Visualization**: Power BI, Bloomberg, Refinitiv (LSEG)
-- **Financial Modelling**: Valuation methods, CVA/DVA calculations, financial risk management
+- **Financial Modelling**: Valuation methods, XVA calculations, financial risk management
 - **Trading & Risk Management**: Fixed Income, Derivatives, FX Trading, Portfolio Optimization
 
 You can see some of my recent work on Machine Learning and Deep Learning here: [ML_1](https://quantgang.github.io/MachineLearning_P1/), [ML_2](https://quantgang.github.io/MachineLearning_P2/), [ML_3](https://quantgang.github.io/MachineLearning_P3/), [ML_4](https://quantgang.github.io/MachineLearning_P4/)  
